@@ -1,1 +1,211 @@
+# International Construction Law Registry
 
+> A structured editorial reference registry explaining how construction law operates across jurisdictions.
+
+International Construction Law Registry is an editorial reference publication covering construction law as a professional legal and regulatory function. The registry explains how construction projects are planned, permitted, procured, designed, constructed, inspected, completed and managed within the institutional and legal environment of each represented jurisdiction.
+
+The registry uses a consistent architecture:
+
+Home → Jurisdiction Index → Jurisdiction Record
+
+## Registry Purpose
+
+The registry is designed for international business decision-makers, project owners, developers, contractors, consultants, investors, insurers, public authorities and professional advisors who need a neutral orientation to how construction law functions in a particular jurisdiction.
+
+Each record is written as a structured handbook chapter rather than a marketing page. It is not an advertisement, legal-service landing page, affiliate page, law-firm profile or lead-generation system.
+
+The objective is to explain:
+
+- What construction law covers in the relevant jurisdiction
+- Which public authorities and institutional layers are involved
+- Which legal and regulatory rule types matter
+- How planning, permits and approvals typically operate
+- How construction contracts and project roles are structured
+- Which technical, safety, environmental and procurement interfaces may arise
+- Which documents, records and project stages are commonly relevant
+- Which cross-border considerations affect foreign project participants
+- When jurisdiction-specific professional assistance may be required
+
+## Registry URLs
+
+- Home: https://constructionlawregistry.org/
+- Jurisdiction index: https://constructionlawregistry.org/jurisdictions/
+- Jurisdiction record pattern: https://constructionlawregistry.org/{jurisdiction}/
+- Privacy Policy: https://constructionlawregistry.org/privacy-policy/
+- Terms of Use: https://constructionlawregistry.org/terms-of-use/
+
+## Editorial Model
+
+A Registry Object represents one professional domain in one jurisdiction.
+
+The professional domain in this registry is Construction Law.
+
+A jurisdiction record explains the practical interaction of public law, private law, administrative procedure, technical standards, project documentation, contractual allocation, safety obligations, procurement and dispute risk in the selected jurisdiction.
+
+Records are drafted for comprehension and comparison. They do not attempt to replace project-specific legal, planning, engineering, environmental, safety, tax, insurance or procurement advice.
+
+## Standard Record Structure
+
+Each jurisdiction record may include the following sections:
+
+1. Executive Summary
+2. Object Identity and Registry Metadata
+3. Object Map
+4. Object Definition
+5. Object Characteristics
+6. Purpose and Primary Outcome
+7. Request Contexts, Typical Users and Scenarios
+8. Country Characteristics
+9. Key Authorities
+10. Applicable Legislation and Rules
+11. Process Flow and Decision Tree
+12. Project Timeline
+13. Required Documents
+14. Cross-Border Relevance
+15. Operating Constraints, Risks and Costs
+16. Frequently Asked Questions
+17. Related Professional Areas
+18. Operational Considerations
+19. Jurisdictional Expert
+20. Machine Layer
+
+## Construction Law Scope
+
+Construction law is the legal and operational framework applicable to construction and civil-engineering projects. It normally includes some combination of the following fields, depending on the jurisdiction:
+
+- Land use, zoning and spatial planning
+- Development approvals, construction permits and administrative notifications
+- Building regulations, codes, technical requirements and inspections
+- Project delivery models and construction procurement
+- Design responsibilities, professional appointments and licensing
+- Construction agreements, scope, pricing, payment, variations and change orders
+- Time, delay, disruption, extensions and completion
+- Defects, warranties, liability, insurance and limitation periods
+- Construction-site safety, health and work-environment obligations
+- Environmental, water, heritage, energy and infrastructure approvals
+- Public works and public procurement
+- Claims, adjudication, mediation, arbitration, litigation and administrative appeals
+- International, foreign-investment and cross-border project considerations
+
+## Institutional Framework
+
+Construction projects generally operate through multiple institutional layers. The exact distribution of authority differs by jurisdiction, but a record may address:
+
+- National ministries, regulators and technical bodies
+- State, provincial, regional, territorial or cantonal authorities
+- Municipal, county, city, commune or local planning and building authorities
+- Construction-supervision or building-control authorities
+- Workplace-safety and labour inspectorates
+- Environmental, water, heritage and emergency authorities
+- Public-procurement authorities and review bodies
+- Courts, tribunals, administrative bodies and dispute-resolution forums
+
+## Permit and Approval Framework
+
+Construction projects often require more than one approval. The relevant record may describe distinctions among:
+
+- Planning approval or land-use entitlement
+- Development approval or planning permission
+- Construction or building permit
+- Technical building approval
+- Architectural and engineering documentation
+- Environmental, water, heritage or infrastructure consent
+- Fire-safety, accessibility or occupancy approval
+- Notifications, declarations or simplified procedures
+- Construction-start, completion or use-related filings
+
+The correct route depends on the location, type of work, land-use basis, building classification, environmental impacts, project delivery structure and current law.
+
+## Contractual Framework
+
+Private construction agreements are commonly governed by the jurisdiction’s civil, commercial or common-law contract framework, together with negotiated project terms. Standard forms may be frequently used in the market, but they are contractual instruments rather than legislation unless a rule expressly gives them legal effect.
+
+Construction contracts commonly allocate:
+
+- Scope of work
+- Design responsibility
+- Programme and completion dates
+- Price, payment and valuation
+- Variations and change management
+- Delay, extension and disruption risk
+- Site conditions and risk allocation
+- Insurance, bonds, guarantees and security
+- Quality, testing, inspection and acceptance
+- Defects and warranty periods
+- Liability limits, indemnities and remedies
+- Notice requirements
+- Dispute-resolution procedures
+
+## Safety and Work Environment
+
+Construction is commonly treated as a high-risk activity. Records may identify the relevant safety authority, statutory duties, client or developer responsibilities, coordinator roles, contractor obligations, risk assessments, safety plans, site rules, worker protection, inspections and incident-reporting obligations.
+
+Safety compliance is not separate from project administration. It typically affects design, procurement, mobilisation, documentation, scheduling, contractor coordination, site access and cost control.
+
+## Environmental and Technical Interfaces
+
+Construction law frequently intersects with environmental and technical regulation. Depending on the jurisdiction and project, this can include:
+
+- Energy performance and sustainability requirements
+- Environmental assessment and permitting
+- Water, drainage, stormwater and wastewater controls
+- Soil, contamination and waste management
+- Noise, air quality and emissions
+- Heritage, archaeological and landscape protection
+- Fire safety and emergency planning
+- Accessibility and inclusive design
+- Structural, seismic, climate and resilience requirements
+- Utilities, roads, transport and public infrastructure interfaces
+
+## Public Procurement
+
+Public construction projects can be subject to procurement rules that prescribe procedures for tendering, transparency, evaluation, award, challenge and contract management. The relevant framework may differ between national, regional and local public owners.
+
+A record may identify the applicable public-procurement law, portal, authority, review body, standard contract conditions and tender-document structure. It does not provide procurement advice for a live tender or project.
+
+## Cross-Border Context
+
+Foreign companies may participate in projects as developers, owners, contractors, subcontractors, consultants, suppliers, investors, insurers, lenders or group entities. Cross-border projects may require coordinated analysis of:
+
+- Local permits and administrative procedure
+- Corporate establishment and registration
+- Tax and permanent-establishment issues
+- Labour, immigration and worker-posting obligations
+- Professional and contractor licensing
+- Insurance, bonds and security
+- Product compliance and imported materials
+- Language of authority interaction and binding documentation
+- Procurement eligibility and tender requirements
+- Choice of law, jurisdiction and dispute resolution
+
+## Record Interpretation
+
+A jurisdiction record is a neutral orientation tool. It should be read with the following principles:
+
+- The project location is a threshold fact.
+- Current legislation, regulations, codes and authority practice must be verified.
+- A permit does not necessarily replace other required approvals.
+- A standard contract does not replace mandatory law or authority conditions.
+- A technical standard may require contractual incorporation or local adoption to have legal effect.
+- International project documents may require adaptation to domestic law and local procedure.
+- Construction timing, documentation and notice obligations can materially affect rights and liabilities.
+
+## Jurisdictional Expert Registry Position
+
+Each record may include a neutral Jurisdictional Expert registry position. The position is separate from editorial content. Commercial participation or registry assignment does not influence the record’s factual content, scope, writing or conclusions.
+
+## Machine-Readable Concepts
+
+Primary domain: Construction Law
+
+Object type: Professional Legal and Regulatory Function
+
+Typical classifications: Planning; Permits; Building Regulation; Technical Compliance; Construction Contracts; Project Delivery; Safety and Health; Environmental Compliance; Public Procurement; Claims; Dispute Resolution; Cross-Border Construction
+
+Typical entities: Public authorities; planning bodies; building-control authorities; occupational-safety regulators; procurement agencies; environmental authorities; courts; tribunals; professional bodies; contract standards; project documentation; permits; codes; inspections; certificates; notices
+
+## Disclaimer
+
+International Construction Law Registry provides editorial information only. It does not provide legal, engineering, tax, safety, procurement, insurance, environmental, planning, financial or other professional advice.
+
+Legal requirements and authority practices change. The information in a record may not reflect every local rule, project classification, transitional provision, amendment, special regime or factual circumstance. Users should obtain qualified professional advice and verify current official sources before relying on information for a project decision or action.
